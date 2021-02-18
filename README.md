@@ -4,6 +4,8 @@
 ![Xresources](1984-base/.Xresources)
 <br></br>
 ![Colours](1984-base/pane.png)
+
+Licence: ![MIT](https://github.com/felix-u/1984-themes/blob/master/LICENSE)
 <br></br><br></br>
 
 
