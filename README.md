@@ -18,21 +18,39 @@ Based on https://github.com/morhetz/gruvbox | Licence: ![MIT/X11](https://en.wik
 <br></br><br></br>
 
 
-# 1984-mountaineer
-![Xresources](1984-mountaineer/.Xresources)
-<br></br>
-![Colours](1984-mountaineer/pane.png)
-
-Based on https://github.com/co1ncidence/mountaineer.vim | Licence: ![BSD 3-Clause](https://github.com/co1ncidence/mountaineer.vim/blob/master/LICENSE)
-<br></br><br></br>
-
-
 # 1984-nord
 ![Xresources](1984-nord/.Xresources)
 <br></br>
 ![Colours](1984-nord/pane.png)
 
 Based on https://github.com/arcticicestudio/nord-visual-studio-code | Licence: ![MIT](https://github.com/arcticicestudio/nord-visual-studio-code/blob/develop/LICENSE)
+<br></br><br></br>
+
+
+# 1984-monokai
+![Xresources](1984-monokai/.Xresources)
+<br></br>
+![Colours](1984-monokai/pane.png)
+
+Based on https://github.com/kevinsawicki/monokai
+<br></br><br></br>
+
+
+# 1984-solarised
+![Xresources](1984-solarised/.Xresources)
+<br></br>
+![Colours](1984-solarised/pane.png)
+
+Based on https://github.com/altercation/solarized | Licence: ![MIT](https://github.com/altercation/solarized/blob/master/LICENSE)
+<br></br><br></br>
+
+
+# 1984-mountaineer
+![Xresources](1984-mountaineer/.Xresources)
+<br></br>
+![Colours](1984-mountaineer/pane.png)
+
+Based on https://github.com/co1ncidence/mountaineer.vim | Licence: ![BSD 3-Clause](https://github.com/co1ncidence/mountaineer.vim/blob/master/LICENSE)
 <br></br><br></br>
 
 
@@ -45,10 +63,11 @@ Based on https://github.com/rose-pine/rose-pine-theme
 <br></br><br></br>
 
 
-# 1984-solarised
-![Xresources](1984-solarised/.Xresources)
+# 1984-dracula
+![Xresources](1984-dracula/.Xresources)
 <br></br>
-![Colours](1984-solarised/pane.png)
+![Colours](1984-dracula/pane.png)
 
-Based on https://github.com/altercation/solarized | Licence: ![MIT](https://github.com/altercation/solarized/blob/master/LICENSE)
+
+Based on https://github.com/dracula/dracula-theme | Licence: ![MIT](https://github.com/dracula/dracula-theme/blob/master/LICENSE)
 <br></br><br></br>
