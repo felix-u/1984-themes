@@ -78,5 +78,10 @@ Based on https://github.com/rose-pine/rose-pine-theme
 <br></br>
 ![Colours](1984-solarised/pane.png)
 
-Based on https://github.com/altercation/solarized | Licence: ![MIT](https://github.com/altercation/solarized/blob/master/LICENSE)
+# 1984-stellar
+![Xresources](1984-stellar/.Xresources)
+<br></br>
+![Colours](1984-stellar/pane.png)
+
+Based on https://github.com/felix-u/stellar-theme | Licence: ![MIT](https://github.com/felix-u/stellar-theme/blob/master/LICENSE)
 <br></br><br></br>
