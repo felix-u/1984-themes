@@ -13,10 +13,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="pane.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/felix/Desktop/1984-themes/1984-papercolour/pane.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs18" />
   <sodipodi:namedview
@@ -26,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="1839.9488"
-     inkscape:cy="1085.4905"
+     inkscape:zoom="0.35"
+     inkscape:cx="1861.3246"
+     inkscape:cy="1048.0485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3784"
+     inkscape:window-width="2297"
      inkscape:window-height="2051"
-     inkscape:window-x="25"
+     inkscape:window-x="1512"
      inkscape:window-y="78"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="true" />
@@ -56,7 +53,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#1c1c1d;fill-rule:evenodd;stroke-width:1.07505;fill-opacity:1"
+       style="fill:#17161a;fill-rule:evenodd;stroke-width:1.07505;fill-opacity:1"
        id="rect31"
        width="3766.7644"
        height="745.58862"
@@ -65,7 +62,7 @@
        ry="372.79431"
        rx="0" />
     <ellipse
-       style="fill:#c81d4f;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#cd453f;fill-opacity:1;stroke-width:0.718236"
        id="path874"
        ry="179.56053"
        rx="173.0484"
@@ -73,7 +70,7 @@
        cx="387.19867"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#ff6949;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#df7c45;fill-opacity:1;stroke-width:0.718236"
        id="ellipse876"
        ry="179.56053"
        rx="173.0484"
@@ -81,7 +78,7 @@
        cx="873.37488"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#eab443;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#f1b34a;fill-opacity:1;stroke-width:0.718236"
        id="ellipse878"
        ry="179.56053"
        rx="173.0484"
@@ -89,7 +86,7 @@
        cx="1390.3945"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#60b523;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#76ae6b;fill-opacity:1;stroke-width:0.718236"
        id="ellipse880"
        ry="179.56053"
        rx="173.0484"
@@ -97,7 +94,7 @@
        cx="1899.7052"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#0aaea6;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#348588;fill-opacity:1;stroke-width:0.718236"
        id="ellipse882"
        ry="179.56053"
        rx="173.0484"
@@ -105,7 +102,7 @@
        cx="2440.9744"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#30a6da;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#4b94d6;fill-opacity:1;stroke-width:0.718236"
        id="ellipse884"
        ry="179.56053"
        rx="173.0484"
@@ -113,7 +110,7 @@
        cx="2970.7607"
        transform="matrix(0.9995305,0.03063951,-0.02812329,0.99960446,0,0)" />
     <ellipse
-       style="fill:#a362b7;fill-opacity:1;stroke-width:0.718236"
+       style="fill:#a5427f;fill-opacity:1;stroke-width:0.718236"
        id="ellipse886"
        ry="179.56053"
        rx="173.0484"
